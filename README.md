@@ -4,8 +4,9 @@
 
 <p align="center">Aluno: Bruno Pisciotta</p>
 <p align="center">Matéria: Desenvolvimento Web III</p>
-<p align="center">Professor: Gerson Penha</p>
 <p align="center">Curso: D.S.M - Fatec SJC</p>
+<p align="center">Professor: Gerson Penha </p> 
+<p align="center">https://github.com/gerson-pn</p> 
 
 ## :books: DESCRIÇÃO: 
 <b>
