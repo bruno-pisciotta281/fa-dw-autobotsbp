@@ -8,7 +8,7 @@
 <p align="center">https://github.com/gerson-pn</p> 
 
 ## :books: DESCRIÇÃO: 
-Repositório reservado para a matéria de Desenvolvimento Web III, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
+Repositório reservado para as atividades finais da matéria de Desenvolvimento Web III, do professor Gerson Penha no curso de terceiro *D.S.M* - Desenvolvimento de Software Multiplataforma.
 <br><br>
 Feito e executado com base no repositório: https://github.com/gerson-pn/atvi-autobots-microservico-spring.
 
