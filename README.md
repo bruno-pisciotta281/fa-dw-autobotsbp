@@ -8,14 +8,15 @@
 <p align="center">https://github.com/gerson-pn</p> 
 
 ## :books: DESCRIÇÃO: 
-<b>
 Repositório reservado para a matéria de Desenvolvimento Web III, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
+<br><br>
+Feito e executado com base no repositório: https://github.com/gerson-pn/atvi-autobots-microservico-spring.
 
 ## :pushpin: Acesso as LISTAS: 
+:arrow_right: [*Lista 01:* (fa-dw-autobotsbp-01)](https://github.com/bruno-pisciotta281/fa-dw-autobotsbp/tree/fa-dw-autobotsbp-01). <br><br>
+:arrow_right: [*Lista 02:* (fa-dw-autobotsbp-02)](https://github.com/bruno-pisciotta281/fa-dw-autobotsbp/tree/fa-dw-autobotsbp-02). <br><br>
+:arrow_right: [*Lista 03:* (fa-dw-autobotsbp-03)](https://github.com/bruno-pisciotta281/fa-dw-autobotsbp/tree/fa-dw-autobotsbp-03). <br><br>
 
-| [*Lista 01:* (fa-dw-autobotsbp-01)](https://github.com/bruno-pisciotta281/fa-dw-autobotsbp/tree/fa-dw-autobotsbp-01) <br><br>
-| [*Lista 02:* (fa-dw-autobotsbp-02)](https://github.com/bruno-pisciotta281/fa-dw-autobotsbp/tree/fa-dw-autobotsbp-02) <br><br>
-| [*Lista 03:* (fa-dw-autobotsbp-03)](https://github.com/bruno-pisciotta281/fa-dw-autobotsbp/tree/fa-dw-autobotsbp-03) <br><br>
 
 ## <a name="criador">&#128400;</a> *CRIADOR:*
 
