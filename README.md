@@ -16,4 +16,4 @@ Repositório reservado para a matéria de Desenvolvimento Web III, do professor 
 | [<img src="https://github.com/bruno-pisciotta281/Index.html/blob/master/img/me.jpg" width="75px;"/>](https://github.com/guilhermerodz) |
 | :------------------------------------------------------------------------------------------------------------------------: |
 
-| [Bruno Pisciotta](https://github.com/bruno-pisciotta281)
+:arrow_right_hook: [Bruno Pisciotta](https://github.com/bruno-pisciotta281)
