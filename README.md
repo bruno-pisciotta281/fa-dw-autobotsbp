@@ -8,7 +8,7 @@
 
 ## :books: DESCRIÇÃO: 
 <b>
-Repositório reservado para a matéria de Desenvolvimento Web III, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
+Repositório reservado para a lista 01 da matéria de Desenvolvimento Web III, do professor Gerson Penha no curso de terceiro D.S.M - Desenvolvimento de Software Multiplataforma.
 
 ## <a name="criador">&#128400;</a> *CRIADOR:*
 
